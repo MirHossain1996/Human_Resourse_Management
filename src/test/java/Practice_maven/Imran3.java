@@ -1,5 +1,9 @@
 package Practice_maven;
 
-public class Imran3 {
+import org.testng.annotations.Test;
 
+public class Imran3 {
+	@Test
+	public void newMethod() {
+}
 }
