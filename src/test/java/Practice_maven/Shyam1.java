@@ -6,7 +6,7 @@ public class Shyam1 {
 	@Test
 	public void firstMessage()
 	{
-		System.out.println("---Shyan is here---");
+		System.out.println("---Shyam is here---");
 		
 	}
 }
