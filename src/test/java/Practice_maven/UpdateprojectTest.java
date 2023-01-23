@@ -2,7 +2,7 @@ package Practice_maven;
 
 import org.testng.annotations.Test;
 
-public class Updateproject {
+public class UpdateprojectTest {
 
 	@Test
 	public void updateName() {

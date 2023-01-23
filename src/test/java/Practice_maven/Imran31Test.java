@@ -2,7 +2,7 @@ package Practice_maven;
 
 import org.testng.annotations.Test;
 
-public class Imran31 {
+public class Imran31Test {
 	@Test
 	public void firstMessage()
 	{

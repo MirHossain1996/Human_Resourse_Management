@@ -2,7 +2,7 @@ package Practice_maven;
 
 import org.testng.annotations.Test;
 
-public class ImranNewClass {
+public class ImranNewClassTest {
 	@Test
 	public void myName() {
 		System.out.println("Md");

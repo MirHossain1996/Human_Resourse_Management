@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import com.aventstack.extentreports.model.Report;
 import com.aventstack.extentreports.model.ReportStats;
 
-public class LoginApplication {
+public class LoginApplicationTest {
 
 	@Test
 	public void login() {

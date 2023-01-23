@@ -2,7 +2,7 @@ package Practice_maven;
 
 import org.testng.annotations.Test;
 
-public class Mir {
+public class MirTest {
 	@Test
 	public void firstMessage()
 	{

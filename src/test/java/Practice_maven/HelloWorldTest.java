@@ -2,11 +2,13 @@ package Practice_maven;
 
 import org.testng.annotations.Test;
 
-public class mirclass {
+public class HelloWorldTest 
+{
 	@Test
 	public void firstMessage()
 	{
-		System.out.println("---Mir---");
+		System.out.println("---HelloWorld---");
 		
 	}
+
 }
